@@ -16,10 +16,10 @@ Here are some ideas to get you started: -->
 
 ## I previously
 - 💻  worked as a Software Engineering intern at Afterpay.
+- 🖥️  ran a software development/website design consultancy.
 - ⛑  developed and marketed heads-up-display software for sporting applications.
 - 🚴‍♂️  coached and competed as a road cyclist...  Nowadays it's just for fun.
 
 ## I love
 - 🏃‍♂️  running, ⛷ skiing, 🚲 cycling (mtn and road) and 🤿 diving
 - 🛠  working on exciting and meaningful products and concepts
-- 👨‍👩‍👧‍👦  my family & 🐶 🐱 my pets
