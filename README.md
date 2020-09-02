@@ -9,7 +9,7 @@ Here are some ideas to get you started: -->
 
 - 🔭  working at Amazon's Lab126, writing software for Fire TV.
 - 🤖  studying Computer Science (concentrating in Artificial Intelligence) and Economics at Stanford University.
-- 💵  researching and developing novel financial products in order to help people during COVID-19, and the subsequent financial recovery.
+- 💵  working on a new software/hardware startup helping reduce money spent on personal oxygen therapy, while improving patient outcomes... More to come soon.
 - 🌱  a Founder in Residence at StartX.
 - 🚗  working towards becoming Grand Champion in Rocket League.
 - 🖋  working on getting a blog started over on my website (www.harrymellsop.com)
