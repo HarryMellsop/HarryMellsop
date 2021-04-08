@@ -8,7 +8,7 @@ Here are some ideas to get you started: -->
 ## I'm currently
 
 - 🤖  studying towards an M.S. in Computer Science (Artificial Intelligence) and a B.S. in Computer Science (concentrating in Artificial Intelligence) and Economics at Stanford University.
-- 💵  getting ready to start working on an artificial intelligence ophthalmology diagnosis tool.
+- 💵  starting work on an artificial intelligence ophthalmology diagnosis tool.
 - 🌱  a Founder in Residence at StartX.
 - 🚗  working towards becoming Grand Champion in Rocket League.
 - 🖋  working on getting a blog started over on my website (www.harrymellsop.com)
