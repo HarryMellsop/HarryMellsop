@@ -7,8 +7,8 @@ Here are some ideas to get you started: -->
 
 ## I'm currently
 
-- 🤖  studying Computer Science (concentrating in Artificial Intelligence) and Economics at Stanford University.
-- 💵  working on a new software/hardware startup helping reduce money spent on personal oxygen therapy, while improving patient outcomes... More to come soon.
+- 🤖  studying towards an M.S. in Computer Science (Artificial Intelligence) and a B.S. in Computer Science (concentrating in Artificial Intelligence) and Economics at Stanford University.
+- 💵  getting ready to start working on an artificial intelligence ophthalmology diagnosis tool.
 - 🌱  a Founder in Residence at StartX.
 - 🚗  working towards becoming Grand Champion in Rocket League.
 - 🖋  working on getting a blog started over on my website (www.harrymellsop.com)
@@ -19,6 +19,7 @@ Here are some ideas to get you started: -->
 - 🖥️  ran a software development/website design consultancy.
 - ⛑  developed, marketed and sold a heads-up-display product for sporting applications.
 - 🚴‍♂️  coached and competed as a road cyclist...  Nowadays it's just for fun.
+- 💵 worked on a software/hardware startup helping reduce money spent on personal oxygen therapy, while improving patient outcomes.
 
 ## I love
 - 🏃‍♂️  running, ⛷ skiing, 🚲 cycling (mtn and road) and 🤿 diving
