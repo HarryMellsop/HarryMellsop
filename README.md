@@ -7,19 +7,21 @@ Here are some ideas to get you started: -->
 
 ## I'm currently
 
-- 🤖  studying towards an M.S. in Computer Science (Artificial Intelligence) and a B.S. in Computer Science (concentrating in Artificial Intelligence) and Economics at Stanford University.
-- 💵  starting work on an artificial intelligence ophthalmology diagnosis tool.
+- 🤖  studying towards an M.S. in Computer Science (Artificial Intelligence) at Stanford University.
 - 🌱  a Founder in Residence at StartX.
-- 🚗  working towards becoming Grand Champion in Rocket League.
-- 🖋  working on getting a blog started over on my website (www.harrymellsop.com)
+- 🔭  working on distributed network invariant validation systems that guarantee reliability across Amazon's core networks (at AWS).
+- 🚗  working towards becoming Supersonic Legend in Rocket League.
 
 ## I previously
-- 💻  worked as a Software Engineering intern at Afterpay.
-- 🔭  worked at Amazon's Lab126, writing software for Fire TV.
+- 🤖  recieved my B.S. in Computer Science (Artificial Intelligence) and Economics at Stanford University.
 - 🖥️  ran a software development/website design consultancy.
 - ⛑  developed, marketed and sold a heads-up-display product for sporting applications.
 - 🚴‍♂️  coached and competed as a road cyclist...  Nowadays it's just for fun.
-- 💵 worked on a software/hardware startup helping reduce money spent on personal oxygen therapy, while improving patient outcomes.
+- 💵  co-founded and sold a software/hardware startup developing products for patients with chronic pulmonary disease.
+- 💵  developed cardiology hypertension management software for a Stanford Medical School and MIT clinical trial.
+- 🛰  had a proposed CubeSat mission to map and predict magnetospheric cracking events selected by NASA Ames leadership.
+- 💻  worked as a Software Engineering intern at Afterpay.
+- 🔭  worked at Amazon's Lab126, writing software for Fire TV.
 
 ## I love
 - 🏃‍♂️  running, ⛷ skiing, 🚲 cycling (mtn and road) and 🤿 diving
