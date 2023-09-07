@@ -21,3 +21,6 @@ Here are some ideas to get you started: -->
 ## I love
 - 🏃‍♂️  running, ⛷ skiing, 🚲 cycling (mtn and road) and 🤿 diving
 - 🛠  working on exciting and meaningful products
+
+
+![](https://komarev.com/ghpvc/?username=HarryMellsop&color=brightgreen)
