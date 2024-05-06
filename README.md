@@ -7,7 +7,7 @@ Here are some ideas to get you started: -->
 
 ## I'm currently:
 
-- 👨‍💻  CTO at Transpose Data
+- 👨‍💻  CTO at Transpose Data, aquired by Chainalysis in May 2023
 
 ## I previously
 - 🚓  worked towards solving safe autonomous driving @ Tesla Autopilot
